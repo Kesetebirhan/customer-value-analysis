@@ -1,3 +1,4 @@
+# Table schema
 CREATE TABLE customer (
 	Customer VARCHAR,
 	State VARCHAR,
