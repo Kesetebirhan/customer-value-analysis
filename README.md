@@ -2,7 +2,9 @@
 
 ## this project explores customers' insurance usage and engament behavior 
 
-The first *Exploratory Data Analysis* is done using SQL on a Postgres database
+The first *Exploratory Data Analysis* is done using SQL on a Postgres database. (See the attached sql file for EDA steps)
+
+There was no missing data and hence Tableau visualizations was done as follows:
 
 Tableau visualizations
 
