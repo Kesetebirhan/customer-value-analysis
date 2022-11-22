@@ -7,6 +7,8 @@ The first *Exploratory Data Analysis* is done using SQL on a Postgres database. 
 There was no missing data and hence Tableau visualizations was done as follows:
 
 Tableau visualizations
+See this link for full interactive visualizations using Tableau Stories:
+https://public.tableau.com/app/profile/kesetebirhan.delele/viz/CustomerValueAnalysis_16684942698870/Report
 
 
 ![Report(0)](https://user-images.githubusercontent.com/109861849/203284591-96f5ceb2-a111-4e0a-bee2-f0e074d9275b.png)
